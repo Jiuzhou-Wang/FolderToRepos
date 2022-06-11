@@ -33,4 +33,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 print("This is an excellent markdown file")
 ```
 
+Add one more line
+
+Add second line
 
