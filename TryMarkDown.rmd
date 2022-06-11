@@ -1,9 +1,8 @@
 ---
 title: "TryMarkDown"
 author: "Jiuzhou Wang"
-date: "6/10/2022"
-output: github_document: 
-keep_md: yes
+date: "2022-06-10"
+output: github_document 
 ---
 
 ```{r setup, include=FALSE}
